@@ -25,6 +25,8 @@ An attendance management system (AMS) is a  tool that helps organizations track 
           2.It has a default baud rate of 57600 for UART communication.  
           3.In order to communicate with the sensor, some data must be transmitted to the sensor by the microcontroller.
           4.Upon receiving data from the microcontroller, the fingerprint sensor gives a feedback (or response).
+# -EEPROME details :
+        
 # -Sample codes- 
         Three sample codes are provided in this repo in order to test the fingerprint sensor.  
         The test applications include:  
