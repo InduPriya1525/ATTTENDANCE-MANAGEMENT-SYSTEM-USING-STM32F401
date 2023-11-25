@@ -26,6 +26,7 @@ An attendance management system (AMS) is a  tool that helps organizations track 
           3.In order to communicate with the sensor, some data must be transmitted to the sensor by the microcontroller.
           4.Upon receiving data from the microcontroller, the fingerprint sensor gives a feedback (or response).
 # -EEPROME details :
+        BUJJI PAPA INDU PRIYA
         
 # -Sample codes- 
         Three sample codes are provided in this repo in order to test the fingerprint sensor.  
